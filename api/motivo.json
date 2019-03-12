@@ -1,0 +1,140 @@
+[
+  {
+    "Motivo": "Falla Eléctrica",
+    "Administración": "Manufactura",
+    "Perdida": "Breakdown"
+  },
+  {
+    "Motivo": "Falla Mantenimiento de Infraestructura",
+    "Administración": "Manufactura",
+    "Perdida": "Breakdown"
+  },
+  {
+    "Motivo": "Falla en Sistema de Control",
+    "Administración": "Manufactura",
+    "Perdida": "Breakdown"
+  },
+  {
+    "Motivo": "Ajustes Batch, Visc-PH-aspec",
+    "Administración": "Manufactura",
+    "Perdida": "Calidad"
+  },
+  {
+    "Motivo": "Calidad de Materias Primas",
+    "Administración": "Manufactura",
+    "Perdida": "Calidad"
+  },
+  {
+    "Motivo": "Reprocesos de Batchs",
+    "Administración": "Manufactura",
+    "Perdida": "Calidad"
+  },
+  {
+    "Motivo": "Sanitización planeada",
+    "Administración": "Proceso",
+    "Perdida": "Lavado y Sanitización"
+  },
+  {
+    "Motivo": "Calentamiento/Enfriamiento",
+    "Administración": "Manufactura",
+    "Perdida": "Falla de Proceso"
+  },
+  {
+    "Motivo": "Comedor",
+    "Administración": "Manufactura",
+    "Perdida": "Falta de Personal"
+  },
+  {
+    "Motivo": "Demora Dosificación/Envio a tanque",
+    "Administración": "Manufactura",
+    "Perdida": "Falla de Proceso"
+  },
+  {
+    "Motivo": "Ausente",
+    "Administración": "Manufactura",
+    "Perdida": "Falta de Personal"
+  },
+  {
+    "Motivo": "PREMIXER VACIO",
+    "Administración": "Proceso",
+    "Perdida": "Arranque y Parada"
+  },
+  {
+    "Motivo": "Limpieza del sector",
+    "Administración": "Manufactura",
+    "Perdida": "Falla de Proceso"
+  },
+  {
+    "Motivo": "Falta de materiales",
+    "Administración": "Manufactura",
+    "Perdida": "Logística"
+  },
+  {
+    "Motivo": "Espera por Efluentes",
+    "Administración": "Proceso",
+    "Perdida": "Lavado y Sanitización"
+  },
+  {
+    "Motivo": "Lavado de Reactor",
+    "Administración": "Proceso",
+    "Perdida": "Lavado y Sanitización"
+  },
+  {
+    "Motivo": "Lavado de Tanque o Pasaje de bala",
+    "Administración": "Proceso",
+    "Perdida": "Lavado y Sanitización"
+  },
+  {
+    "Motivo": "Alarmas/Inundaciones",
+    "Administración": "Sin utilización",
+    "Perdida": "Fuerza Mayor"
+  },
+  {
+    "Motivo": "Cambio de linea producción",
+    "Administración": "Proceso",
+    "Perdida": "Lavado y Sanitización"
+  },
+  {
+    "Motivo": "Cambio en estación de menores",
+    "Administración": "Manufactura",
+    "Perdida": "Logística"
+  },
+  {
+    "Motivo": "Disponibilidad de Tanque",
+    "Administración": "Manufactura",
+    "Perdida": "Falla de Proceso"
+  },
+  {
+    "Motivo": "Espera de Depósito o Fraccionamiento",
+    "Administración": "Manufactura",
+    "Perdida": "Logística"
+  },
+  {
+    "Motivo": "Falta Agua/Aire/Vapor/Electricidad",
+    "Administración": "Sin utilización",
+    "Perdida": "Fuerza Mayor"
+  },
+  {
+    "Motivo": "Cursos/Mantenimiento",
+    "Administración": "Proceso",
+    "Perdida": "Parada Planeada"
+  },
+  {
+    "Motivo": "Pruebas/Comisionamientos",
+    "Administración": "Sin utilización",
+    "Perdida": "Pruebas"
+  },
+  {
+    "Motivo": "Sin plan de Producción",
+    "Administración": "Sin utilización",
+    "Perdida": "Sin Programación"
+  },
+  {
+    "Motivo": "Feriados/Fin de Semana",
+    "Administración": "Feriados",
+    "Perdida": "Feriado Legal"
+  },
+  {
+    "Motivo": " "
+  }
+]

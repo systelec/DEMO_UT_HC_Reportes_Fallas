@@ -1,0 +1,633 @@
+[
+  {
+    "Id": 1,
+    "Elaborador": "Marcelo Ramognino",
+    "Ref_SAP": 67324748,
+    "Ref_SE": 67294518,
+    "Descripción": "DRIVE DT LIQ HORTENSIA F BCA DP 4X3L",
+    "Mixer": 5000,
+    "Volumen": 10.7,
+    "Marca": "Drive",
+    "Tecnologia": "SW",
+    "Envío_A": "DUPLO TK_10110",
+    "Nro_Orden": 6971309,
+    "Nro_Batch": 4,
+    "Turno": "TM",
+    "Fecha_Inicio": "1/2/2018",
+    "Inicio": "1:58",
+    "Fecha_Final": "1/2/2018",
+    "Final": "7:36",
+    "Duración_Batch": 338,
+    "BCT": 100,
+    "Diferencia": 238,
+    "Perdida_Declarada": true,
+    "Alarmas": [
+      {
+        "Id": 1,
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Id": 1,
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 80,
+        "Descripcion": "Falla valvula VA110"
+      }
+    ],
+    "Perdidas": [
+      { "Motivo": "Falla Eléctrica", "Duracion": 140, "Alarma_Id": 1 },
+      { "Motivo": "Calidad de Materias Prima", "Duracion": 80, "Alarma_Id": 2 },
+      { "Motivo": "Comedor", "Duracion": 18, "Alarma_Id": 0 }
+    ]
+  },
+  {
+    "Id": 2,
+    "Elaborador": "Gaston Cauteruccio",
+    "Ref_SAP": 589050,
+    "Ref_SE": 83338545,
+    "Descripción": "CIF VIDRIOS REP ECON DOYP 15X450ML - DOMINGO",
+    "Mixer": 2000,
+    "Volumen": 10.7,
+    "Marca": "Cif",
+    "Tecnologia": "GPC",
+    "Envío_A": "TRIPLO1 TK_10520",
+    "Nro_Orden": 6971306,
+    "Nro_Batch": 3,
+    "Turno": "TM",
+    "Fecha_Inicio": "1/2/2018",
+    "Inicio": "20:08",
+    "Fecha_Final": "1/3/2018",
+    "Final": "6:00",
+    "Duración_Batch": 592,
+    "BCT": 75,
+    "Diferencia": 517,
+    "Perdida_Declarada": true,
+    "Perdidas": [],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Elaborador": "Walter Barcala",
+    "Ref_SAP": 67314233,
+    "Ref_SE": 67322169,
+    "Descripción": "ALA PIEL SENSIBLE MATIC LIQ DOYP 4x2,7L",
+    "Mixer": 2000,
+    "Volumen": 10.7,
+    "Marca": "Ala",
+    "Tecnologia": "SW",
+    "Envío_A": "HC10 TK_10210",
+    "Nro_Orden": 6972862,
+    "Nro_Batch": 1,
+    "Turno": "TT",
+    "Fecha_Inicio": "1/3/2018",
+    "Inicio": "6:00",
+    "Fecha_Final": "1/3/2018",
+    "Final": "15:46",
+    "Duración_Batch": 586,
+    "BCT": 100,
+    "Diferencia": 486,
+    "Perdida_Declarada": false,
+    "Perdidas": [],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Elaborador": "Walter Barcala",
+    "Ref_SAP": 67314233,
+    "Ref_SE": 67322169,
+    "Descripción": "ALA PIEL SENSIBLE MATIC LIQ DOYP 4x2,7L",
+    "Mixer": 2000,
+    "Volumen": 10.7,
+    "Marca": "Ala",
+    "Tecnologia": "SW",
+    "Envío_A": "HC10 TK_10210",
+    "Nro_Orden": 6972862,
+    "Nro_Batch": 2,
+    "Turno": "TT",
+    "Fecha_Inicio": "1/3/2018",
+    "Inicio": "15:46",
+    "Fecha_Final": "1/3/2018",
+    "Final": "20:16",
+    "Duración_Batch": 270,
+    "BCT": 100,
+    "Diferencia": 170,
+    "Perdida_Declarada": true,
+    "Perdidas": [],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Elaborador": "Gabriel Narvaez",
+    "Ref_SAP": 67151039,
+    "Ref_SE": 67139548,
+    "Descripción": "COMFORT CONC PURO CUIDADO DOYP 12X1L",
+    "Mixer": 8000,
+    "Volumen": 15,
+    "Marca": "Comfort",
+    "Tecnologia": "FABCON",
+    "Envío_A": "HC11 TK_11310",
+    "Nro_Orden": 6971323,
+    "Nro_Batch": 2,
+    "Turno": "TM",
+    "Fecha_Inicio": "1/2/2018",
+    "Inicio": "21:01",
+    "Fecha_Final": "1/3/2018",
+    "Final": "9:00",
+    "Duración_Batch": 719,
+    "BCT": 145,
+    "Diferencia": 574,
+    "Perdida_Declarada": true,
+    "Perdidas": [],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Elaborador": "Gabriel Narvaez",
+    "Ref_SAP": 67151039,
+    "Ref_SE": 67139548,
+    "Descripción": "COMFORT CONC PURO CUIDADO DOYP 12X1L",
+    "Mixer": 8000,
+    "Volumen": 15,
+    "Marca": "Comfort",
+    "Tecnologia": "FABCON",
+    "Envío_A": "HC11 TK_11310",
+    "Nro_Orden": 6971323,
+    "Nro_Batch": 3,
+    "Turno": "TM",
+    "Fecha_Inicio": "1/3/2018",
+    "Inicio": "9:00",
+    "Fecha_Final": "1/3/2018",
+    "Final": "13:10",
+    "Duración_Batch": 250,
+    "BCT": 145,
+    "Diferencia": 105,
+    "Perdida_Declarada": true,
+    "Perdidas": [],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Elaborador": "Cristian Garcia",
+    "Ref_SAP": 67235950,
+    "Ref_SE": 67261248,
+    "Descripción": "CIF AG CORE CITRICA 12X300ML",
+    "Mixer": 1000,
+    "Volumen": 10.7,
+    "Marca": "Cif",
+    "Tecnologia": "DW CON",
+    "Envío_A": "GENESIS TK_10930",
+    "Nro_Orden": 6972414,
+    "Nro_Batch": 1,
+    "Turno": "TT",
+    "Fecha_Inicio": "1/2/2018",
+    "Inicio": "0:04",
+    "Fecha_Final": "1/2/2018",
+    "Final": "6:00",
+    "Duración_Batch": 356,
+    "BCT": 110,
+    "Diferencia": 246,
+    "Perdida_Declarada": false,
+    "Perdidas": [
+      {
+        "Motivo": "Falla Eléctrica",
+        "Duracion": 140,
+        "Alarma_Id": 1,
+        "Alarma": {
+          "Fecha": "2018-02-02 02:10:00",
+          "Duracion": 140,
+          "Descripcion": "Falla valvula VA120",
+          "Declarada": true
+        }
+      },
+      {
+        "Motivo": "Calidad de Materias Prima",
+        "Duracion": 80,
+        "Alarma_Id": 2,
+        "Alarma": null
+      }
+    ],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": true
+      },
+      {
+        "Fecha": "2018-02-01 05:10:00",
+        "Duracion": 80,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Elaborador": "Cristian Garcia",
+    "Ref_SAP": 67235950,
+    "Ref_SE": 67261248,
+    "Descripción": "CIF AG CORE CITRICA 12X300ML",
+    "Mixer": 1000,
+    "Volumen": 10.7,
+    "Marca": "Cif",
+    "Tecnologia": "DW CON",
+    "Envío_A": "GENESIS TK_10910",
+    "Nro_Orden": 6972414,
+    "Nro_Batch": 2,
+    "Turno": "TT",
+    "Fecha_Inicio": "1/2/2018",
+    "Inicio": "6:00",
+    "Fecha_Final": "1/2/2018",
+    "Final": "17:03",
+    "Duración_Batch": 663,
+    "BCT": 110,
+    "Diferencia": 553,
+    "Perdida_Declarada": false,
+    "Perdidas": [],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Elaborador": "Cristian Garcia",
+    "Ref_SAP": 67235950,
+    "Ref_SE": 67261248,
+    "Descripción": "CIF AG CORE CITRICA 12X300ML",
+    "Mixer": 1000,
+    "Volumen": 10.7,
+    "Marca": "Cif",
+    "Tecnologia": "DW CON",
+    "Envío_A": "GENESIS TK_10930",
+    "Nro_Orden": 6972414,
+    "Nro_Batch": 3,
+    "Turno": "TT",
+    "Fecha_Inicio": "1/2/2018",
+    "Inicio": "17:03",
+    "Fecha_Final": "1/2/2018",
+    "Final": "20:45",
+    "Duración_Batch": 222,
+    "BCT": 110,
+    "Diferencia": 112,
+    "Perdida_Declarada": false,
+    "Perdidas": [],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Elaborador": "Cristian Garcia",
+    "Ref_SAP": 67235950,
+    "Ref_SE": 67261248,
+    "Descripción": "CIF AG CORE CITRICA 12X300ML",
+    "Mixer": 1000,
+    "Volumen": 10.7,
+    "Marca": "Cif",
+    "Tecnologia": "DW CON",
+    "Envío_A": "GENESIS TK_10930",
+    "Nro_Orden": 6972414,
+    "Nro_Batch": 3,
+    "Turno": "TT",
+    "Fecha_Inicio": "1/2/2018",
+    "Inicio": "17:03",
+    "Fecha_Final": "1/2/2018",
+    "Final": "20:45",
+    "Duración_Batch": 222,
+    "BCT": 110,
+    "Diferencia": 112,
+    "Perdida_Declarada": false,
+    "Perdidas": [],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Elaborador": "Cristian Garcia",
+    "Ref_SAP": 67235950,
+    "Ref_SE": 67261248,
+    "Descripción": "CIF AG CORE CITRICA 12X300ML",
+    "Mixer": 1000,
+    "Volumen": 10.7,
+    "Marca": "Cif",
+    "Tecnologia": "DW CON",
+    "Envío_A": "GENESIS TK_10930",
+    "Nro_Orden": 6972414,
+    "Nro_Batch": 3,
+    "Turno": "TT",
+    "Fecha_Inicio": "1/2/2018",
+    "Inicio": "17:03",
+    "Fecha_Final": "1/2/2018",
+    "Final": "20:45",
+    "Duración_Batch": 222,
+    "BCT": 110,
+    "Diferencia": 112,
+    "Perdida_Declarada": false,
+    "Perdidas": [],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Elaborador": "Cristian Garcia",
+    "Ref_SAP": 67235950,
+    "Ref_SE": 67261248,
+    "Descripción": "CIF AG CORE CITRICA 12X300ML",
+    "Mixer": 1000,
+    "Volumen": 10.7,
+    "Marca": "Cif",
+    "Tecnologia": "DW CON",
+    "Envío_A": "GENESIS TK_10930",
+    "Nro_Orden": 6972414,
+    "Nro_Batch": 3,
+    "Turno": "TT",
+    "Fecha_Inicio": "1/2/2018",
+    "Inicio": "17:03",
+    "Fecha_Final": "1/2/2018",
+    "Final": "20:45",
+    "Duración_Batch": 222,
+    "BCT": 110,
+    "Diferencia": 112,
+    "Perdida_Declarada": false,
+    "Perdidas": [],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Elaborador": "Cristian Garcia",
+    "Ref_SAP": 67235950,
+    "Ref_SE": 67261248,
+    "Descripción": "CIF AG CORE CITRICA 12X300ML",
+    "Mixer": 1000,
+    "Volumen": 10.7,
+    "Marca": "Cif",
+    "Tecnologia": "DW CON",
+    "Envío_A": "GENESIS TK_10930",
+    "Nro_Orden": 6972414,
+    "Nro_Batch": 3,
+    "Turno": "TT",
+    "Fecha_Inicio": "1/2/2018",
+    "Inicio": "17:03",
+    "Fecha_Final": "1/2/2018",
+    "Final": "20:45",
+    "Duración_Batch": 222,
+    "BCT": 110,
+    "Diferencia": 112,
+    "Perdida_Declarada": false,
+    "Perdidas": [],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "Elaborador": "Cristian Garcia",
+    "Ref_SAP": 67235950,
+    "Ref_SE": 67261248,
+    "Descripción": "CIF AG CORE CITRICA 12X300ML",
+    "Mixer": 1000,
+    "Volumen": 10.7,
+    "Marca": "Cif",
+    "Tecnologia": "DW CON",
+    "Envío_A": "GENESIS TK_10930",
+    "Nro_Orden": 6972414,
+    "Nro_Batch": 3,
+    "Turno": "TT",
+    "Fecha_Inicio": "1/2/2018",
+    "Inicio": "17:03",
+    "Fecha_Final": "1/2/2018",
+    "Final": "20:45",
+    "Duración_Batch": 222,
+    "BCT": 110,
+    "Diferencia": 112,
+    "Perdida_Declarada": false,
+    "Perdidas": [],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Elaborador": "Cristian Garcia",
+    "Ref_SAP": 67235950,
+    "Ref_SE": 67261248,
+    "Descripción": "CIF AG CORE CITRICA 12X300ML",
+    "Mixer": 1000,
+    "Volumen": 10.7,
+    "Marca": "Cif",
+    "Tecnologia": "DW CON",
+    "Envío_A": "GENESIS TK_10930",
+    "Nro_Orden": 6972414,
+    "Nro_Batch": 3,
+    "Turno": "TT",
+    "Fecha_Inicio": "1/2/2018",
+    "Inicio": "17:03",
+    "Fecha_Final": "1/2/2018",
+    "Final": "20:45",
+    "Duración_Batch": 222,
+    "BCT": 110,
+    "Diferencia": 112,
+    "Perdida_Declarada": false,
+    "Perdidas": [],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Elaborador": "Cristian Garcia",
+    "Ref_SAP": 67235950,
+    "Ref_SE": 67261248,
+    "Descripción": "CIF AG CORE CITRICA 12X300ML",
+    "Mixer": 1000,
+    "Volumen": 10.7,
+    "Marca": "Cif",
+    "Tecnologia": "DW CON",
+    "Envío_A": "GENESIS TK_10930",
+    "Nro_Orden": 6972414,
+    "Nro_Batch": 3,
+    "Turno": "TT",
+    "Fecha_Inicio": "1/2/2018",
+    "Inicio": "17:03",
+    "Fecha_Final": "1/2/2018",
+    "Final": "20:45",
+    "Duración_Batch": 222,
+    "BCT": 110,
+    "Diferencia": 112,
+    "Perdida_Declarada": false,
+    "Perdidas": [],
+    "Alarmas": [
+      {
+        "Fecha": "2018-02-02 02:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA120",
+        "Declarada": false
+      },
+      {
+        "Fecha": "2018-02-01 22:10:00",
+        "Duracion": 140,
+        "Descripcion": "Falla valvula VA110",
+        "Declarada": false
+      }
+    ]
+  }
+]

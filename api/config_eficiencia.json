@@ -1,0 +1,17 @@
+[
+  {
+    "Eficiencia": 50,
+    "Icon": "trending_down",
+    "Color": "red"
+  },
+  {
+    "Eficiencia": 70,
+    "Icon": "trending_flat",
+    "Color": "cyan"
+  },
+  {
+    "Eficiencia": 100,
+    "Icon": "trending_up",
+    "Color": "green"
+  }
+]
