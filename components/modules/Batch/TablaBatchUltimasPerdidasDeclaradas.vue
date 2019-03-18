@@ -91,8 +91,8 @@ export default {
         { text: 'Envío_A', value: 'Envío_A', align: 'left' },
         { text: 'Inicio', value: 'Fecha_Inicio', align: 'left' },
         { text: 'Fin', value: 'Fecha_Final', align: 'left' },
-        { text: 'Duracion', value: 'Duracion', align: 'left' },
         { text: 'BCT', value: 'BCT', align: 'left' },
+        { text: 'Duracion', value: 'Duracion', align: 'left' },
         { text: '', value: '' }
       ],
       items: batch,
