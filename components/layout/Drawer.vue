@@ -9,7 +9,7 @@
   >
     <v-toolbar dark flat dense color="light-blue darken-1">
       <v-list-tile-title class="title">
-        <img src="../../static/logo_white.png" width="30">
+        <img src="../../static/logo_iot.png" width="28" style="margin-top: -2px;">
       </v-list-tile-title>
     </v-toolbar>
 
